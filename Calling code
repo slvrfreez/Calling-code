@@ -1,240 +1,240 @@
-1                     Canada
-1                     United States
-1-242                 Bahamas
-1-246                 Barbados
-1-264                 Anguilla
-1-268                 Antigua and Barbuda
-1-284                 British Virgin Islands
-1-340                 U.S. Virgin Islands
-1-345                 Cayman Islands
-1-441                 Bermuda
-1-473                 Grenada
-1-649                 Turks and Caicos Islands
-1-664                 Montserrat
-1-670                 Northern Mariana Islands
-1-671                 Guam
-1-684                 American Samoa
-1-721                 Sint Maarten
-1-758                 Saint Lucia
-1-767                 Dominica
-1-784                 Saint Vincent and the Grenadines
-1-787, 1-939          Puerto Rico
-1-809, 1-829, 1-849   Dominican Republic
-1-868                 Trinidad and Tobago
-1-869                 Saint Kitts and Nevis
-1-876                 Jamaica
-20                    Egypt
-211                   South Sudan
-212                   Morocco
-212                   Western Sahara
-213                   Algeria
-216                   Tunisia
-218                   Libya
-220                   Gambia
-221                   Senegal
-222                   Mauritania
-223                   Mali
-224                   Guinea
-225                   Ivory Coast
-226                   Burkina Faso
-227                   Niger
-228                   Togo
-229                   Benin
-230                   Mauritius
-231                   Liberia
-232                   Sierra Leone
-233                   Ghana
-234                   Nigeria
-235                   Chad
-236                   Central African Republic
-237                   Cameroon
-238                   Cape Verde
-239                   Sao Tome and Principe
-240                   Equatorial Guinea
-241                   Gabon
-242                   Republic of the Congo
-243                   Democratic Republic of the Congo
-244                   Angola
-245                   Guinea-Bissau
-246                   British Indian Ocean Territory
-248                   Seychelles
-249                   Sudan
-250                   Rwanda
-251                   Ethiopia
-252                   Somalia
-253                   Djibouti
-254                   Kenya
-255                   Tanzania
-256                   Uganda
-257                   Burundi
-258                   Mozambique
-260                   Zambia
-261                   Madagascar
-262                   Mayotte
-262                   Reunion
-263                   Zimbabwe
-264                   Namibia
-265                   Malawi
-266                   Lesotho
-267                   Botswana
-268                   Swaziland
-269                   Comoros
-27                    South Africa
-290                   Saint Helena
-291                   Eritrea
-297                   Aruba
-298                   Faroe Islands
-299                   Greenland
-30                    Greece
-31                    Netherlands
-32                    Belgium
-33                    France
-34                    Spain
-350                   Gibraltar
-351                   Portugal
-352                   Luxembourg
-353                   Ireland
-354                   Iceland
-355                   Albania
-356                   Malta
-357                   Cyprus
-358                   Finland
-359                   Bulgaria
-36                    Hungary
-370                   Lithuania
-371                   Latvia
-372                   Estonia
-373                   Moldova
-374                   Armenia
-375                   Belarus
-376                   Andorra
-377                   Monaco
-378                   San Marino
-379                   Vatican
-380                   Ukraine
-381                   Serbia
-382                   Montenegro
-383                   Kosovo
-385                   Croatia
-386                   Slovenia
-387                   Bosnia and Herzegovina
-389                   Macedonia
-39                    Italy
-40                    Romania
-41                    Switzerland
-420                   Czech Republic
-421                   Slovakia
-423                   Liechtenstein
-43                    Austria
-44                    United Kingdom
-44-1481               Guernsey
-44-1534               Jersey
-44-1624               Isle of Man
-45                    Denmark
-46                    Sweden
-47                    Norway
-47                    Svalbard and Jan Mayen
-48                    Poland
-49                    Germany
-500                   Falkland Islands
-501                   Belize
-502                   Guatemala
-503                   El Salvador
-504                   Honduras
-505                   Nicaragua
-506                   Costa Rica
-507                   Panama
-508                   Saint Pierre and Miquelon
-509                   Haiti
-51                    Peru
-52                    Mexico
-53                    Cuba
-54                    Argentina
-55                    Brazil
-56                    Chile
-57                    Colombia
-58                    Venezuela
-590                   Saint Barthelemy
-590                   Saint Martin
-591                   Bolivia
-592                   Guyana
-593                   Ecuador
-595                   Paraguay
-597                   Suriname
-598                   Uruguay
-599                   Curacao
-599                   Netherlands Antilles
-60                    Malaysia
-61                    Australia
-61                    Christmas Island
-61                    Cocos Islands
-62                    Indonesia
-63                    Philippines
-64                    New Zealand
-64                    Pitcairn
-65                    Singapore
-66                    Thailand
-670                   East Timor
-672                   Antarctica
-673                   Brunei
-674                   Nauru
-675                   Papua New Guinea
-676                   Tonga
-677                   Solomon Islands
-678                   Vanuatu
-679                   Fiji
-680                   Palau
-681                   Wallis and Futuna
-682                   Cook Islands
-683                   Niue
-685                   Samoa
-686                   Kiribati
-687                   New Caledonia
-688                   Tuvalu
-689                   French Polynesia
-690                   Tokelau
-691                   Micronesia
-692                   Marshall Islands
-7                     Kazakhstan
-7                     Russia
-81                    Japan
-82                    South Korea
-84                    Vietnam
-850                   North Korea
-852                   Hong Kong
-853                   Macau
-855                   Cambodia
-856                   Laos
-86                    China
-880                   Bangladesh
-886                   Taiwan
-90                    Turkey
-91                    India
-92                    Pakistan
-93                    Afghanistan
-94                    Sri Lanka
-95                    Myanmar
-960                   Maldives
-961                   Lebanon
-962                   Jordan
-963                   Syria
-964                   Iraq
-965                   Kuwait
-966                   Saudi Arabia
-967                   Yemen
-968                   Oman
-970                   Palestine
-971                   United Arab Emirates
-972                   Israel
-973                   Bahrain
-974                   Qatar
-975                   Bhutan
-976                   Mongolia
-977                   Nepal
-98                    Iran
-992                   Tajikistan
-993                   Turkmenistan
-994                   Azerbaijan
-995                   Georgia
-996                   Kyrgyzstan
-998                   Uzbekistan
+1                     Canada                                         93                      Afghanistan
+1                     United States                                  355                     Albania
+1-242                 Bahamas                                        213                     Algeria
+1-246                 Barbados                                       1-684                   American Samoa
+1-264                 Anguilla                                       376                     Andorra
+1-268                 Antigua and Barbuda                            244                     Angola
+1-284                 British Virgin Islands                         1-264                   Anguilla
+1-340                 U.S. Virgin Islands                            672                     Antarctica
+1-345                 Cayman Islands                                 1-268                   Antigua and Barbuda
+1-441                 Bermuda                                        54                      Argentina
+1-473                 Grenada                                        374                     Armenia
+1-649                 Turks and Caicos Islands                       297                     Aruba
+1-664                 Montserrat                                     61                      Australia
+1-670                 Northern Mariana Islands                       43                      Austria
+1-671                 Guam                                           994                     Azerbaijan
+1-684                 American Samoa                                 1-242                   Bahamas
+1-721                 Sint Maarten                                   973                     Bahrain
+1-758                 Saint Lucia                                    880                     Bangladesh
+1-767                 Dominica                                       1-246                   Barbados
+1-784                 Saint Vincent and the Grenadines               375                     Belarus
+1-787, 1-939          Puerto Rico                                    32                      Belgium
+1-809, 1-829, 1-849   Dominican Republic                             501                     Belize
+1-868                 Trinidad and Tobago                            229                     Benin
+1-869                 Saint Kitts and Nevis                          1-441                   Bermuda
+1-876                 Jamaica                                        975                     Bhutan
+20                    Egypt                                          591                     Bolivia
+211                   South Sudan                                    387                     Bosnia and Herzegovina
+212                   Morocco                                        267                     Botswana
+212                   Western Sahara                                 55                      Brazil
+213                   Algeria                                        246                     British Indian Ocean Territory
+216                   Tunisia                                        1-284                   British Virgin Islands
+218                   Libya                                          673                     Brunei
+220                   Gambia                                         359                     Bulgaria
+221                   Senegal                                        226                     Burkina Faso
+222                   Mauritania                                     257                     Burundi
+223                   Mali                                           855                     Cambodia
+224                   Guinea                                         237                     Cameroon
+225                   Ivory Coast                                    1                       Canada
+226                   Burkina Faso                                   238                     Cape Verde
+227                   Niger                                          1-345                   Cayman Islands
+228                   Togo                                           236                     Central African Republic
+229                   Benin                                          235                     Chad
+230                   Mauritius                                      56                      Chile
+231                   Liberia                                        86                      China
+232                   Sierra Leone                                   61                      Christmas Island
+233                   Ghana                                          61                      Cocos Islands
+234                   Nigeria                                        57                      Colombia
+235                   Chad                                           269                     Comoros
+236                   Central African Republic                       682                     Cook Islands
+237                   Cameroon                                       506                     Costa Rica
+238                   Cape Verde                                     385                     Croatia
+239                   Sao Tome and Principe                          53                      Cuba
+240                   Equatorial Guinea                              599                     Curacao
+241                   Gabon                                          357                     Cyprus
+242                   Republic of the Congo                          420                     Czech Republic
+243                   Democratic Republic of the Congo               243                     Democratic Republic of the Congo
+244                   Angola                                         45                      Denmark
+245                   Guinea-Bissau                                  253                     Djibouti
+246                   British Indian Ocean Territory                 1-767                   Dominica
+248                   Seychelles                                     1-809, 1-829, 1-849     Dominican Republic
+249                   Sudan                                          670                     East Timor
+250                   Rwanda                                         593                     Ecuador
+251                   Ethiopia                                       20                      Egypt
+252                   Somalia                                        503                     El Salvador
+253                   Djibouti                                       240                     Equatorial Guinea
+254                   Kenya                                          291                     Eritrea
+255                   Tanzania                                       372                     Estonia
+256                   Uganda                                         251                     Ethiopia
+257                   Burundi                                        500                     Falkland Islands
+258                   Mozambique                                     298                     Faroe Islands
+260                   Zambia                                         679                     Fiji
+261                   Madagascar                                     358                     Finland
+262                   Mayotte                                        33                      France
+262                   Reunion                                        689                     French Polynesia
+263                   Zimbabwe                                       241                     Gabon
+264                   Namibia                                        220                     Gambia
+265                   Malawi                                         995                     Georgia
+266                   Lesotho                                        49                      Germany
+267                   Botswana                                       233                     Ghana
+268                   Swaziland                                      350                     Gibraltar
+269                   Comoros                                        30                      Greece
+27                    South Africa                                   299                     Greenland
+290                   Saint Helena                                   1-473                   Grenada
+291                   Eritrea                                        1-671                   Guam
+297                   Aruba                                          502                     Guatemala
+298                   Faroe Islands                                  44-1481                 Guernsey
+299                   Greenland                                      224                     Guinea
+30                    Greece                                         245                     Guinea-Bissau
+31                    Netherlands                                    592                     Guyana
+32                    Belgium                                        509                     Haiti
+33                    France                                         504                     Honduras
+34                    Spain                                          852                     Hong Kong
+350                   Gibraltar                                      36                      Hungary
+351                   Portugal                                       354                     Iceland
+352                   Luxembourg                                     91                      India
+353                   Ireland                                        62                      Indonesia
+354                   Iceland                                        98                      Iran
+355                   Albania                                        964                     Iraq
+356                   Malta                                          353                     Ireland
+357                   Cyprus                                         44-1624                 Isle of Man
+358                   Finland                                        972                     Israel
+359                   Bulgaria                                       39                      Italy
+36                    Hungary                                        225                     Ivory Coast
+370                   Lithuania                                      1-876                   Jamaica
+371                   Latvia                                         81                      Japan
+372                   Estonia                                        44-1534                 Jersey
+373                   Moldova                                        962                     Jordan
+374                   Armenia                                        7                       Kazakhstan
+375                   Belarus                                        254                     Kenya
+376                   Andorra                                        686                     Kiribati
+377                   Monaco                                         383                     Kosovo
+378                   San Marino                                     965                     Kuwait
+379                   Vatican                                        996                     Kyrgyzstan
+380                   Ukraine                                        856                     Laos
+381                   Serbia                                         371                     Latvia
+382                   Montenegro                                     961                     Lebanon
+383                   Kosovo                                         266                     Lesotho
+385                   Croatia                                        231                     Liberia
+386                   Slovenia                                       218                     Libya
+387                   Bosnia and Herzegovina                         423                     Liechtenstein
+389                   Macedonia                                      370                     Lithuania
+39                    Italy                                          352                     Luxembourg
+40                    Romania                                        853                     Macau
+41                    Switzerland                                    389                     Macedonia
+420                   Czech Republic                                 261                     Madagascar
+421                   Slovakia                                       265                     Malawi
+423                   Liechtenstein                                  60                      Malaysia
+43                    Austria                                        960                     Maldives
+44                    United Kingdom                                 223                     Mali
+44-1481               Guernsey                                       356                     Malta
+44-1534               Jersey                                         692                     Marshall Islands
+44-1624               Isle of Man                                    222                     Mauritania
+45                    Denmark                                        230                     Mauritius
+46                    Sweden                                         262                     Mayotte
+47                    Norway                                         52                      Mexico
+47                    Svalbard and Jan Mayen                         691                     Micronesia
+48                    Poland                                         373                     Moldova
+49                    Germany                                        377                     Monaco
+500                   Falkland Islands                               976                     Mongolia
+501                   Belize                                         382                     Montenegro
+502                   Guatemala                                      1-664                   Montserrat
+503                   El Salvador                                    212                     Morocco
+504                   Honduras                                       258                     Mozambique
+505                   Nicaragua                                      95                      Myanmar
+506                   Costa Rica                                     264                     Namibia
+507                   Panama                                         674                     Nauru
+508                   Saint Pierre and Miquelon                      977                     Nepal
+509                   Haiti                                          31                      Netherlands
+51                    Peru                                           599                     Netherlands Antilles
+52                    Mexico                                         687                     New Caledonia
+53                    Cuba                                           64                      New Zealand
+54                    Argentina                                      505                     Nicaragua
+55                    Brazil                                         227                     Niger
+56                    Chile                                          234                     Nigeria
+57                    Colombia                                       683                     Niue
+58                    Venezuela                                      850                     North Korea
+590                   Saint Barthelemy                               1-670                   Northern Mariana Islands
+590                   Saint Martin                                   47                      Norway
+591                   Bolivia                                        968                     Oman
+592                   Guyana                                         92                      Pakistan
+593                   Ecuador                                        680                     Palau
+595                   Paraguay                                       970                     Palestine
+597                   Suriname                                       507                     Panama
+598                   Uruguay                                        675                     Papua New Guinea
+599                   Curacao                                        595                     Paraguay
+599                   Netherlands Antilles                           51                      Peru
+60                    Malaysia                                       63                      Philippines
+61                    Australia                                      64                      Pitcairn
+61                    Christmas Island                               48                      Poland
+61                    Cocos Islands                                  351                     Portugal
+62                    Indonesia                                      1-787, 1-939            Puerto Rico
+63                    Philippines                                    974                     Qatar
+64                    New Zealand                                    242                     Republic of the Congo
+64                    Pitcairn                                       262                     Reunion
+65                    Singapore                                      40                      Romania
+66                    Thailand                                       7                       Russia
+670                   East Timor                                     250                     Rwanda
+672                   Antarctica                                     590                     Saint Barthelemy
+673                   Brunei                                         290                     Saint Helena
+674                   Nauru                                          1-869                   Saint Kitts and Nevis
+675                   Papua New Guinea                               1-758                   Saint Lucia
+676                   Tonga                                          590                     Saint Martin
+677                   Solomon Islands                                508                     Saint Pierre and Miquelon
+678                   Vanuatu                                        1-784                   Saint Vincent and the Grenadines
+679                   Fiji                                           685                     Samoa
+680                   Palau                                          378                     San Marino
+681                   Wallis and Futuna                              239                     Sao Tome and Principe
+682                   Cook Islands                                   966                     Saudi Arabia
+683                   Niue                                           221                     Senegal
+685                   Samoa                                          381                     Serbia
+686                   Kiribati                                       248                     Seychelles
+687                   New Caledonia                                  232                     Sierra Leone
+688                   Tuvalu                                         65                      Singapore
+689                   French Polynesia                               1-721                   Sint Maarten
+690                   Tokelau                                        421                     Slovakia
+691                   Micronesia                                     386                     Slovenia
+692                   Marshall Islands                               677                     Solomon Islands
+7                     Kazakhstan                                     252                     Somalia
+7                     Russia                                         27                      South Africa
+81                    Japan                                          82                      South Korea
+82                    South Korea                                    211                     South Sudan
+84                    Vietnam                                        34                      Spain
+850                   North Korea                                    94                      Sri Lanka
+852                   Hong Kong                                      249                     Sudan
+853                   Macau                                          597                     Suriname
+855                   Cambodia                                       47                      Svalbard and Jan Mayen
+856                   Laos                                           268                     Swaziland
+86                    China                                          46                      Sweden
+880                   Bangladesh                                     41                      Switzerland
+886                   Taiwan                                         963                     Syria
+90                    Turkey                                         886                     Taiwan
+91                    India                                          992                     Tajikistan
+92                    Pakistan                                       255                     Tanzania
+93                    Afghanistan                                    66                      Thailand
+94                    Sri Lanka                                      228                     Togo
+95                    Myanmar                                        690                     Tokelau
+960                   Maldives                                       676                     Tonga
+961                   Lebanon                                        1-868                   Trinidad and Tobago
+962                   Jordan                                         216                     Tunisia
+963                   Syria                                          90                      Turkey
+964                   Iraq                                           993                     Turkmenistan
+965                   Kuwait                                         1-649                   Turks and Caicos Islands
+966                   Saudi Arabia                                   688                     Tuvalu
+967                   Yemen                                          1-340                   U.S. Virgin Islands
+968                   Oman                                           256                     Uganda
+970                   Palestine                                      380                     Ukraine
+971                   United Arab Emirates                           971                     United Arab Emirates
+972                   Israel                                         44                      United Kingdom
+973                   Bahrain                                        1                       United States
+974                   Qatar                                          598                     Uruguay
+975                   Bhutan                                         998                     Uzbekistan
+976                   Mongolia                                       678                     Vanuatu
+977                   Nepal                                          379                     Vatican
+98                    Iran                                           58                      Venezuela
+992                   Tajikistan                                     84                      Vietnam
+993                   Turkmenistan                                   681                     Wallis and Futuna
+994                   Azerbaijan                                     212                     Western Sahara
+995                   Georgia                                        967                     Yemen
+996                   Kyrgyzstan                                     260                     Zambia
+998                   Uzbekistan                                     263                     Zimbabwe
